@@ -1,9 +1,3 @@
-# Team Number : Final Project Team 24 
-# Team Members : 
-* Shashidhar Reddy Ananthula(shan4427)
-* Srinath Muppala (srmu3557)
-    
-
 # 4-tier Banking Application
 ### Project Overview
 In this project, we have facilitated a seamless banking application with a 4-tier architecture.
